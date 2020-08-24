@@ -11,4 +11,9 @@ main.exe - programme<br>
 或<br>
 將main.cpp複製到www.cpp.sh, 然後按compile<br>
 
+first type the (a number) you get last time (exclude -)
+then type the (a line of number)(exclude -)
+then you will get the orginal id
+
+
 ~tartoor
