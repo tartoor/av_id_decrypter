@@ -1,14 +1,14 @@
 # av_id_decrypter
-AV番號解密器(持續更新😋)
-對應 @av_id_encrypter
+AV番號解密器(持續更新😋)<br>
+對應 @av_id_encrypter<br>
 
-version:1.0
+version:1.0<br>
 
-main.cpp - code
-main.exe - programme
+main.cpp - code<br>
+main.exe - programme<br>
 
-下載main.exe即可使用
-或
-將main.cpp複製到www.cpp.sh, 然後按compile
+下載main.exe即可使用<br>
+或<br>
+將main.cpp複製到www.cpp.sh, 然後按compile<br>
 
 ~tartoor
